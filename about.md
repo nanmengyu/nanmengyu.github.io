@@ -17,24 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Shiwen Tu** is currently an undergraduate student in the College of Computer and Information Technology at China Three Gorges University, where he joined the research group of Dr. Wenbin Wang in August 2024. His research interests focus on remote sensing analysis, image and video generation, and editing. He is dedicated to exploring advanced techniques in these areas, contributing to the development of innovative solutions and applications.
+**Shiwen Tu** is currently a M.S. student in Software Engineering at the School of Computer Science, China University of Geosciences (Wuhan), supervised by Prof. Jiange Shang. He is a member of the Natural Resources Digital Twin Engineering Software Laboratory. He received his B.S. degree in Computer Science and Technology from China Three Gorges University in 2026. His research interests focus on intelligent agent design and development, and he is dedicated to exploring advanced techniques in this area to build robust and efficient autonomous agents for real-world applications.
 
 
 # 🔥 News
-
-
-# 📝 Publications 
-
-
-
-# 🎖 Honors and Awards
+- *2026.09*: Joined the Natural Resources Digital Twin Engineering Software Laboratory at China University of Geosciences (Wuhan) as an M.S. student.
 
 
 # 📖 Educations
-- *2022.09 - Present*, Undergraduate, China Three Gorges University, Yichang.
+- *2026.09 - 2029.06 (expected)*, M.S. in Software Engineering, China University of Geosciences, Wuhan.
+- *2022.09 - 2026.06*, Undergraduate, China Three Gorges University, Yichang.
 - *2019.09 - 2022.06*, High School, Hanchuan No.1 High School, Hanchuan.
-
-# 💬 Invited Talks
-
-
-# 💻 Internships

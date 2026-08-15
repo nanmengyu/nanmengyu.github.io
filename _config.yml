@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shiwen Tu"
-description              : "Computer Science and Technology 22 student focusing on remote sensing analysis, image/video generation and editing"
+description              : "M.S. student in Software Engineering at China University of Geosciences (Wuhan), focusing on intelligent agent design and development"
 repository               : "nanmengyu/nanmengyu-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shiwen Tu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "China Three Gorges University"
-  location         : "Yichang, China"
+  bio              : "China University of Geosciences (Wuhan)"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2lJQH3kAAAAJ"
-  email            : "202210120130@ctgu.edu.cn"
+  email            : "1202611260@cug.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
